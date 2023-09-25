@@ -15,6 +15,7 @@ I'm a passionate Software Developer currently based in the US.
 
 - Game Development in C# and Unity
 - How to build a portfolio site
+- How to get my life together 🥲
 
 
 ## 📫 How to reach me
@@ -23,7 +24,7 @@ You can find me on the web via:
 
 - [LinkedIn](https://www.linkedin.com/in/v-valentin/)
 
-Feel free to reach out if you want to collaborate on a project or just want to chat!
+Please feel free to reach out if you want to collaborate on a project or just want to chat!
 
 ![7cdba9baae9bdffd9ee64a764dd12921](https://github.com/valerie-valentine/valerie-valentine/assets/121909894/c1263da2-5507-4854-9c18-03304e28c8c1)
 
