@@ -1,4 +1,5 @@
 # Welcome 🌻
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.pinimg.com/originals/ee/21/b6/ee21b6f99f0effacee7f97699144b5f3.gif)
 
 <!--
 **valerie-valentine/valerie-valentine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
