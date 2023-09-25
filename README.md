@@ -2,8 +2,7 @@
 
 # Hi there! 🌻 I'm Valerie
 
-
-I'm a passionate Software Developer based in the US. 
+A passionate Software Developer based in the US. 
 
 ## 🔧 Technologies & Tools
 
@@ -18,7 +17,7 @@ I'm a passionate Software Developer based in the US.
 - How to get my life together 🥲
 
 
-## 📫 Let's Connect
+## 📬 Let's Connect
 
 You can find me on the web via:
 
