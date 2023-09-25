@@ -1,6 +1,6 @@
 ![ee21b6f99f0effacee7f97699144b5f3](https://github.com/valerie-valentine/valerie-valentine/assets/121909894/04d6ce9c-3b3e-474e-a684-4149c3cc8e43)
 
-# Hi there! 👋 I'm Valerie
+# Hi there! 🌻 I'm Valerie
 
 
 I'm a passionate Software Developer based in the US. 
