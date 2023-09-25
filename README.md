@@ -18,7 +18,7 @@ I'm a passionate Software Developer based in the US.
 - How to get my life together 🥲
 
 
-## 📫 How to reach me
+## 📫 Let's Connect
 
 You can find me on the web via:
 
