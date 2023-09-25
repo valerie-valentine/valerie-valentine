@@ -3,7 +3,7 @@
 # Hi there! 👋 I'm Valerie
 
 
-I'm a passionate Software Developer currently based in the US. 
+I'm a passionate Software Developer based in the US. 
 
 ## 🔧 Technologies & Tools
 
