@@ -1,6 +1,29 @@
-# Hi 🌻
+![ee21b6f99f0effacee7f97699144b5f3](https://github.com/valerie-valentine/valerie-valentine/assets/121909894/04d6ce9c-3b3e-474e-a684-4149c3cc8e43)
 
-![b7e523360ab971576f278cecd877f2d2](https://github.com/valerie-valentine/valerie-valentine/assets/121909894/4358df5b-96f1-47bc-b0ca-64a51844a468)
+# Hi there! 👋 I'm Valerie
+
+
+I'm a passionate Software Developer currently based in the US. 
+
+## 🔧 Technologies & Tools
+
+- Languages: Python, HTML & CSS, Javascript, C#
+- Frameworks & Libraries: Flask, React, SQLAlchemy, Node.js
+- Tools: Unity Engine, Xcode, Postman, Google Cloud Firestore
+
+## 🌱 Currently Learning
+
+- Game Development in C# and Unity
+- How to build a portfolio site
+
+
+## 📫 How to reach me
+
+You can find me on the web via:
+
+- [LinkedIn](https://www.linkedin.com/in/v-valentin/)
+
+Feel free to reach out if you want to collaborate on a project or just want to chat!
 
 
 
