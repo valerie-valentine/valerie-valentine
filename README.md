@@ -25,6 +25,7 @@ You can find me on the web via:
 
 Feel free to reach out if you want to collaborate on a project or just want to chat!
 
+![7cdba9baae9bdffd9ee64a764dd12921](https://github.com/valerie-valentine/valerie-valentine/assets/121909894/c1263da2-5507-4854-9c18-03304e28c8c1)
 
 
 <!--
