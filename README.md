@@ -1,6 +1,6 @@
 # Hi 🌻
-![7cdba9baae9bdffd9ee64a764dd12921](https://github.com/valerie-valentine/valerie-valentine/assets/121909894/7a044107-a556-4de9-8f21-9c48443abd41)
 
+![b7e523360ab971576f278cecd877f2d2](https://github.com/valerie-valentine/valerie-valentine/assets/121909894/4358df5b-96f1-47bc-b0ca-64a51844a468)
 
 
 
