@@ -12,7 +12,7 @@ A passionate Software Developer based in the US.
 
 ## 🌱 Currently Learning
 
-- Game Development in C# and Unity
+- About LLMs and using Co-pilot in development 
 - How to build a portfolio site
 - How to get my life together 🥲
 
